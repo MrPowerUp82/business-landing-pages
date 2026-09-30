@@ -2,6 +2,7 @@
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
+from build import SITES
 
 ROOT = Path(__file__).parent
 PAGES = [ROOT / 'index.html', *sorted((ROOT / 'projects').glob('*/index.html'))]
@@ -30,8 +31,8 @@ class Links(HTMLParser):
                 self.refs.append(data[attr])
 
 errors = []
-if len(PAGES) != 21:
-    errors.append(f'Expected 21 HTML pages, found {len(PAGES)}')
+if len(PAGES) != len(SITES) + 1:
+    errors.append(f'Expected {len(SITES) + 1} HTML pages, found {len(PAGES)}')
 for page in PAGES:
     parser = Links()
     parser.feed(page.read_text(encoding='utf-8'))
