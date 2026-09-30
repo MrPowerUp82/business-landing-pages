@@ -1,0 +1,1052 @@
+{
+  ".claude/launch.json": {
+    "mtime": 1790789352.2246065,
+    "seen": 1790790678.8581145,
+    "ast_hash": "91ae21c322a10f7c812fa526ec66e149",
+    "semantic_hash": ""
+  },
+  "assets/js/showcase.js": {
+    "mtime": 1790781878.5233264,
+    "seen": 1790790678.85813,
+    "ast_hash": "b7b35595d6e95388d10d2c3dba618ae2",
+    "semantic_hash": ""
+  },
+  "assets/js/site.js": {
+    "mtime": 1790781878.5233264,
+    "seen": 1790790678.8581345,
+    "ast_hash": "c30b322a4270ab78b21274fce03d947f",
+    "semantic_hash": ""
+  },
+  "build.py": {
+    "mtime": 1790790665.2903266,
+    "seen": 1790790678.8581376,
+    "ast_hash": "05f0fdaff0b4d67e0864f16808bc80ad",
+    "semantic_hash": ""
+  },
+  "check.py": {
+    "mtime": 1790781878.5243256,
+    "seen": 1790790678.8581407,
+    "ast_hash": "6a596b641561a33b9812234a19bf6ea7",
+    "semantic_hash": ""
+  },
+  "download_images.py": {
+    "mtime": 1790790367.379136,
+    "seen": 1790790678.8581433,
+    "ast_hash": "48604b8916182ed6c81ea28fd6d91b93",
+    "semantic_hash": ""
+  },
+  "projects/aesthetic-clinic/script.js": {
+    "mtime": 1790790665.9159029,
+    "seen": 1790790678.8581462,
+    "ast_hash": "dcfb7a448f873738c4256bb100813d1e",
+    "semantic_hash": ""
+  },
+  "projects/air-conditioning/script.js": {
+    "mtime": 1790790665.9239202,
+    "seen": 1790790678.8581486,
+    "ast_hash": "ca8216353e557ec1d77c45a4b5ffd5cc",
+    "semantic_hash": ""
+  },
+  "projects/auto-detailing/script.js": {
+    "mtime": 1790790665.9219258,
+    "seen": 1790790678.858151,
+    "ast_hash": "579288785f85c339803a5549627f1877",
+    "semantic_hash": ""
+  },
+  "projects/bakery/script.js": {
+    "mtime": 1790790665.940853,
+    "seen": 1790790678.8581526,
+    "ast_hash": "232f69391f97c7e5971759d908b55c9c",
+    "semantic_hash": ""
+  },
+  "projects/barbershop/script.js": {
+    "mtime": 1790790665.9133732,
+    "seen": 1790790678.8581553,
+    "ast_hash": "a3d778852a4faa40b32d2e98f5b7eb69",
+    "semantic_hash": ""
+  },
+  "projects/cleaning/script.js": {
+    "mtime": 1790790665.933447,
+    "seen": 1790790678.8581579,
+    "ast_hash": "377b0abc480a14987c3d1e01e2012f89",
+    "semantic_hash": ""
+  },
+  "projects/community-school/script.js": {
+    "mtime": 1790790665.9453995,
+    "seen": 1790790678.8581595,
+    "ast_hash": "afffafe9e40b6a5b621005d749a708d6",
+    "semantic_hash": ""
+  },
+  "projects/construction/script.js": {
+    "mtime": 1790790665.920925,
+    "seen": 1790790678.8581622,
+    "ast_hash": "ee76748af9eef7850f96c43a4f071d3d",
+    "semantic_hash": ""
+  },
+  "projects/dental-clinic/script.js": {
+    "mtime": 1790790665.9169178,
+    "seen": 1790790678.858165,
+    "ast_hash": "f5c8f651fd849bb2cf4641d6ba715cec",
+    "semantic_hash": ""
+  },
+  "projects/electrician/script.js": {
+    "mtime": 1790790665.92893,
+    "seen": 1790790678.8581667,
+    "ast_hash": "d4cf5f148d8b72003fb6e203bbaca802",
+    "semantic_hash": ""
+  },
+  "projects/events/script.js": {
+    "mtime": 1790790665.9324455,
+    "seen": 1790790678.8581688,
+    "ast_hash": "748cd278502a92e5cf118642fa9e2cc5",
+    "semantic_hash": ""
+  },
+  "projects/furniture/script.js": {
+    "mtime": 1790790665.9279225,
+    "seen": 1790790678.8581712,
+    "ast_hash": "64b603dd8f903f671873615249b4419b",
+    "semantic_hash": ""
+  },
+  "projects/gym/script.js": {
+    "mtime": 1790790665.925921,
+    "seen": 1790790678.8581736,
+    "ast_hash": "21cfc5665ebf70b08aa6a9edf72dfd5a",
+    "semantic_hash": ""
+  },
+  "projects/industrial-services/script.js": {
+    "mtime": 1790790665.9443977,
+    "seen": 1790790678.8581755,
+    "ast_hash": "862a7ee4fec8c650272af74e358c44a8",
+    "semantic_hash": ""
+  },
+  "projects/mechanic/script.js": {
+    "mtime": 1790790665.93986,
+    "seen": 1790790678.8581774,
+    "ast_hash": "563e8b315ad0bbab4545b1d48d3aaf22",
+    "semantic_hash": ""
+  },
+  "projects/petshop/script.js": {
+    "mtime": 1790790665.9199257,
+    "seen": 1790790678.8581805,
+    "ast_hash": "0983180ec9c1560253bf675acc2f40d6",
+    "semantic_hash": ""
+  },
+  "projects/photographer/script.js": {
+    "mtime": 1790790665.9299247,
+    "seen": 1790790678.858184,
+    "ast_hash": "2418b69b187a658e489fb37bb836b357",
+    "semantic_hash": ""
+  },
+  "projects/professional-services/script.js": {
+    "mtime": 1790790665.936838,
+    "seen": 1790790678.8581862,
+    "ast_hash": "2703ca004273b0addf1802c7b4eff534",
+    "semantic_hash": ""
+  },
+  "projects/public-law/script.js": {
+    "mtime": 1790790665.9423778,
+    "seen": 1790790678.858188,
+    "ast_hash": "8c5afee14bb2739bf8674acfeb8b9a7c",
+    "semantic_hash": ""
+  },
+  "projects/real-estate/script.js": {
+    "mtime": 1790790665.924921,
+    "seen": 1790790678.8581905,
+    "ast_hash": "a0eefcdba0d900bd2b14ae3451de7bd2",
+    "semantic_hash": ""
+  },
+  "projects/restaurant/script.js": {
+    "mtime": 1790790665.922922,
+    "seen": 1790790678.8581924,
+    "ast_hash": "2ecd4833a9515686a2bdb2dc85043da7",
+    "semantic_hash": ""
+  },
+  "projects/school/script.js": {
+    "mtime": 1790790665.9354463,
+    "seen": 1790790678.8581953,
+    "ast_hash": "87c5534cb2addcf938884a44bbafcbbf",
+    "semantic_hash": ""
+  },
+  "projects/solar-energy/script.js": {
+    "mtime": 1790790665.9179184,
+    "seen": 1790790678.858198,
+    "ast_hash": "53205c73fcbe40d8c088dfdc1eabfb75",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1790790665.9123714,
+    "seen": 1790790678.8581998,
+    "ast_hash": "331920b9a5ae2706ce1b5b0a77b646f5",
+    "semantic_hash": ""
+  },
+  "index.html": {
+    "mtime": 1790790665.9113739,
+    "seen": 1790790678.8582032,
+    "ast_hash": "f6541dd7dfb71ef9423b49abecadafe0",
+    "semantic_hash": ""
+  },
+  "projects/aesthetic-clinic/index.html": {
+    "mtime": 1790790665.914886,
+    "seen": 1790790678.8582056,
+    "ast_hash": "66f6cead7ccdae4f0fca23c7dcc3c804",
+    "semantic_hash": ""
+  },
+  "projects/air-conditioning/index.html": {
+    "mtime": 1790790665.922922,
+    "seen": 1790790678.8582075,
+    "ast_hash": "64610e6c46d160786d69385c23de8edd",
+    "semantic_hash": ""
+  },
+  "projects/auto-detailing/index.html": {
+    "mtime": 1790790665.920925,
+    "seen": 1790790678.8582094,
+    "ast_hash": "c2829856d2a216a2a267efb0c8bd438c",
+    "semantic_hash": ""
+  },
+  "projects/bakery/index.html": {
+    "mtime": 1790790665.940853,
+    "seen": 1790790678.8582113,
+    "ast_hash": "e186bf94c91f205f3e9b79ba2d074b96",
+    "semantic_hash": ""
+  },
+  "projects/barbershop/index.html": {
+    "mtime": 1790790665.9133732,
+    "seen": 1790790678.8582137,
+    "ast_hash": "f65b8e157aa63e97785565db40458981",
+    "semantic_hash": ""
+  },
+  "projects/cleaning/index.html": {
+    "mtime": 1790790665.933447,
+    "seen": 1790790678.858216,
+    "ast_hash": "2475a0c9b0a966c8903a6a141ccfccd7",
+    "semantic_hash": ""
+  },
+  "projects/community-school/index.html": {
+    "mtime": 1790790665.9453995,
+    "seen": 1790790678.858218,
+    "ast_hash": "d9e764fdad0e9eb02ecff9be20e3c1f4",
+    "semantic_hash": ""
+  },
+  "projects/construction/index.html": {
+    "mtime": 1790790665.9199257,
+    "seen": 1790790678.8582203,
+    "ast_hash": "42ff181a604468accb5873bc6f86c0b7",
+    "semantic_hash": ""
+  },
+  "projects/dental-clinic/index.html": {
+    "mtime": 1790790665.9159029,
+    "seen": 1790790678.858223,
+    "ast_hash": "f45a53fc10106392810458aff94b8ac9",
+    "semantic_hash": ""
+  },
+  "projects/electrician/index.html": {
+    "mtime": 1790790665.9279225,
+    "seen": 1790790678.8582244,
+    "ast_hash": "77075c61d39a27c2b99622302f93e7c5",
+    "semantic_hash": ""
+  },
+  "projects/events/index.html": {
+    "mtime": 1790790665.9314325,
+    "seen": 1790790678.8582268,
+    "ast_hash": "fdc2cea0d67ab12462ab8f27617d9ae2",
+    "semantic_hash": ""
+  },
+  "projects/furniture/index.html": {
+    "mtime": 1790790665.9269161,
+    "seen": 1790790678.8582292,
+    "ast_hash": "104007e9ed0764a6de3d9ae9a4579832",
+    "semantic_hash": ""
+  },
+  "projects/gym/index.html": {
+    "mtime": 1790790665.925921,
+    "seen": 1790790678.8582337,
+    "ast_hash": "c74ef8ed82f6304bd8dbb8ae253d1044",
+    "semantic_hash": ""
+  },
+  "projects/industrial-services/index.html": {
+    "mtime": 1790790665.9433966,
+    "seen": 1790790678.8582356,
+    "ast_hash": "6d28328a62b7bc6eaabbd822e8b68b03",
+    "semantic_hash": ""
+  },
+  "projects/mechanic/index.html": {
+    "mtime": 1790790665.9388561,
+    "seen": 1790790678.8582394,
+    "ast_hash": "b861b865e89dc72c2cdeb0508459ed57",
+    "semantic_hash": ""
+  },
+  "projects/petshop/index.html": {
+    "mtime": 1790790665.9189286,
+    "seen": 1790790678.8582413,
+    "ast_hash": "130db110368a790021dd7aefb611dd28",
+    "semantic_hash": ""
+  },
+  "projects/photographer/index.html": {
+    "mtime": 1790790665.9299247,
+    "seen": 1790790678.8582435,
+    "ast_hash": "9fa14980407a918d5275b27155d09b1a",
+    "semantic_hash": ""
+  },
+  "projects/professional-services/index.html": {
+    "mtime": 1790790665.9354463,
+    "seen": 1790790678.858246,
+    "ast_hash": "4f321b28e01bffd30f4428601eeb3a81",
+    "semantic_hash": ""
+  },
+  "projects/public-law/index.html": {
+    "mtime": 1790790665.9423778,
+    "seen": 1790790678.8582487,
+    "ast_hash": "be35e5126e16b1f460a2cf4a9f32780f",
+    "semantic_hash": ""
+  },
+  "projects/real-estate/index.html": {
+    "mtime": 1790790665.9239202,
+    "seen": 1790790678.858251,
+    "ast_hash": "0a2a7c5f9cf01553d0a06dedfb90f2d6",
+    "semantic_hash": ""
+  },
+  "projects/restaurant/index.html": {
+    "mtime": 1790790665.9219258,
+    "seen": 1790790678.858253,
+    "ast_hash": "a43af18e5802b8baf1f7b88e19a88eae",
+    "semantic_hash": ""
+  },
+  "projects/school/index.html": {
+    "mtime": 1790790665.9344451,
+    "seen": 1790790678.8582554,
+    "ast_hash": "6c52f55002e6d63da9990a062bde7bce",
+    "semantic_hash": ""
+  },
+  "projects/solar-energy/index.html": {
+    "mtime": 1790790665.9179184,
+    "seen": 1790790678.8582573,
+    "ast_hash": "15690fbb8a5df5df721d33ae8972c099",
+    "semantic_hash": ""
+  },
+  "assets/images/aesthetic-clinic-detail.jpg": {
+    "mtime": 1790781878.4643424,
+    "seen": 1790790678.85826,
+    "ast_hash": "2d7d38a542417f78c36a2cac324ba7ea",
+    "semantic_hash": ""
+  },
+  "assets/images/aesthetic-clinic-g1.jpg": {
+    "mtime": 1790790386.5597856,
+    "seen": 1790790678.858262,
+    "ast_hash": "0bba8b65de05eaa638ae9e9fd90f1722",
+    "semantic_hash": ""
+  },
+  "assets/images/aesthetic-clinic-g2.jpg": {
+    "mtime": 1790790386.594278,
+    "seen": 1790790678.8582647,
+    "ast_hash": "15e8c18d62f055a0b7c1594d89da37c7",
+    "semantic_hash": ""
+  },
+  "assets/images/aesthetic-clinic-g3.jpg": {
+    "mtime": 1790790386.624811,
+    "seen": 1790790678.8582666,
+    "ast_hash": "dfabd59313c53ed5025b230010b1cc92",
+    "semantic_hash": ""
+  },
+  "assets/images/aesthetic-clinic.jpg": {
+    "mtime": 1790781878.4653432,
+    "seen": 1790790678.8582692,
+    "ast_hash": "3b7f89f4d8065709c1a002dfe0ceba7d",
+    "semantic_hash": ""
+  },
+  "assets/images/air-conditioning-detail.jpg": {
+    "mtime": 1790781878.4663432,
+    "seen": 1790790678.858271,
+    "ast_hash": "973aa0c99f69a61687278a09ae77703a",
+    "semantic_hash": ""
+  },
+  "assets/images/air-conditioning-g1.jpg": {
+    "mtime": 1790790386.6628234,
+    "seen": 1790790678.858273,
+    "ast_hash": "ce92849355792f44ee7360befcedd3ae",
+    "semantic_hash": ""
+  },
+  "assets/images/air-conditioning-g2.jpg": {
+    "mtime": 1790790386.703319,
+    "seen": 1790790678.8582747,
+    "ast_hash": "0af47c1900ddd9f476e05e83e197075a",
+    "semantic_hash": ""
+  },
+  "assets/images/air-conditioning-g3.jpg": {
+    "mtime": 1790790386.7414036,
+    "seen": 1790790678.858277,
+    "ast_hash": "4a6dac760a512bcb9ad751d95b422035",
+    "semantic_hash": ""
+  },
+  "assets/images/air-conditioning.jpg": {
+    "mtime": 1790781878.468342,
+    "seen": 1790790678.858279,
+    "ast_hash": "9f49fba2fd20d3bb7eb75f39ee52bbe0",
+    "semantic_hash": ""
+  },
+  "assets/images/auto-detailing-detail.jpg": {
+    "mtime": 1790781878.4693432,
+    "seen": 1790790678.8582814,
+    "ast_hash": "9f8b1399aba7e163b51885946490fe69",
+    "semantic_hash": ""
+  },
+  "assets/images/auto-detailing-g1.jpg": {
+    "mtime": 1790790386.7747848,
+    "seen": 1790790678.8582838,
+    "ast_hash": "6fb147a72b9cb37f9fefcbaebae8afca",
+    "semantic_hash": ""
+  },
+  "assets/images/auto-detailing-g2.jpg": {
+    "mtime": 1790790386.8222697,
+    "seen": 1790790678.8582866,
+    "ast_hash": "2063f57b1029ee20c9aac1c60250dca4",
+    "semantic_hash": ""
+  },
+  "assets/images/auto-detailing-g3.jpg": {
+    "mtime": 1790790386.8542714,
+    "seen": 1790790678.858289,
+    "ast_hash": "affc890a7a6d782e1561fec02db773db",
+    "semantic_hash": ""
+  },
+  "assets/images/auto-detailing.jpg": {
+    "mtime": 1790781878.4703267,
+    "seen": 1790790678.8582911,
+    "ast_hash": "e7f729083d5e4c9ffe70da51f45a0c4f",
+    "semantic_hash": ""
+  },
+  "assets/images/bakery-detail.jpg": {
+    "mtime": 1790781878.4713435,
+    "seen": 1790790678.8582935,
+    "ast_hash": "2fbc57b2875f7b7756a1e123bd34fa8f",
+    "semantic_hash": ""
+  },
+  "assets/images/bakery-g1.jpg": {
+    "mtime": 1790790386.8902805,
+    "seen": 1790790678.858296,
+    "ast_hash": "157ba3a5d3177466e8c01703c6061d1d",
+    "semantic_hash": ""
+  },
+  "assets/images/bakery-g2.jpg": {
+    "mtime": 1790790386.924168,
+    "seen": 1790790678.8582983,
+    "ast_hash": "361914ba89e04ecc4577edaf8f601b0f",
+    "semantic_hash": ""
+  },
+  "assets/images/bakery-g3.jpg": {
+    "mtime": 1790790386.9549413,
+    "seen": 1790790678.8583004,
+    "ast_hash": "05bd327b8c97244ee169fd106d0094be",
+    "semantic_hash": ""
+  },
+  "assets/images/bakery.jpg": {
+    "mtime": 1790781878.4723256,
+    "seen": 1790790678.858302,
+    "ast_hash": "3ad79652aa734d0b90f59690afd995ce",
+    "semantic_hash": ""
+  },
+  "assets/images/barbershop-detail.jpg": {
+    "mtime": 1790781878.474342,
+    "seen": 1790790678.8583045,
+    "ast_hash": "252e11c43b252de8b5d3f45286db4e43",
+    "semantic_hash": ""
+  },
+  "assets/images/barbershop-g1.jpg": {
+    "mtime": 1790790386.9937105,
+    "seen": 1790790678.8583064,
+    "ast_hash": "23ba42f4f44447ffba5d8509bdb44114",
+    "semantic_hash": ""
+  },
+  "assets/images/barbershop-g2.jpg": {
+    "mtime": 1790790387.0267074,
+    "seen": 1790790678.858308,
+    "ast_hash": "a629d80dedae1f0684ee10c7366e6943",
+    "semantic_hash": ""
+  },
+  "assets/images/barbershop-g3.jpg": {
+    "mtime": 1790790387.0588715,
+    "seen": 1790790678.8583105,
+    "ast_hash": "f1c93cd448c64be3896dfc0371f91a0f",
+    "semantic_hash": ""
+  },
+  "assets/images/barbershop.jpg": {
+    "mtime": 1790781878.4753437,
+    "seen": 1790790678.8583126,
+    "ast_hash": "0559cc939990697ac0f9011eebd69762",
+    "semantic_hash": ""
+  },
+  "assets/images/cleaning-detail.jpg": {
+    "mtime": 1790781878.4763439,
+    "seen": 1790790678.8583148,
+    "ast_hash": "9421269d605a80e69d1f2580f0fc7744",
+    "semantic_hash": ""
+  },
+  "assets/images/cleaning-g1.jpg": {
+    "mtime": 1790790387.0935614,
+    "seen": 1790790678.858317,
+    "ast_hash": "cebc692ccc6cd530acd192ed56cd5085",
+    "semantic_hash": ""
+  },
+  "assets/images/cleaning-g2.jpg": {
+    "mtime": 1790790387.1247694,
+    "seen": 1790790678.8583193,
+    "ast_hash": "7b5d71e05a87715909724ae6330c6ed5",
+    "semantic_hash": ""
+  },
+  "assets/images/cleaning-g3.jpg": {
+    "mtime": 1790790387.1718574,
+    "seen": 1790790678.8583214,
+    "ast_hash": "3bf46097707fab4df5c1391ed21c76e2",
+    "semantic_hash": ""
+  },
+  "assets/images/cleaning.jpg": {
+    "mtime": 1790790368.4686654,
+    "seen": 1790790678.8583238,
+    "ast_hash": "e801e40a296696f68fc5cbdf7642cb8c",
+    "semantic_hash": ""
+  },
+  "assets/images/community-school-detail.jpg": {
+    "mtime": 1790781878.4783254,
+    "seen": 1790790678.8583257,
+    "ast_hash": "7b5d47c1c18d47bb2c5211b80e318729",
+    "semantic_hash": ""
+  },
+  "assets/images/community-school-g1.jpg": {
+    "mtime": 1790790387.205966,
+    "seen": 1790790678.858329,
+    "ast_hash": "5e3bd5cbc8b1bb58bf7182a41a64c04d",
+    "semantic_hash": ""
+  },
+  "assets/images/community-school-g2.jpg": {
+    "mtime": 1790790387.23905,
+    "seen": 1790790678.8583343,
+    "ast_hash": "ab287c9b7f2f3a02e444f70134903768",
+    "semantic_hash": ""
+  },
+  "assets/images/community-school-g3.jpg": {
+    "mtime": 1790790387.2748983,
+    "seen": 1790790678.8583367,
+    "ast_hash": "9e93675f57265ef5d2e7e26da30957dd",
+    "semantic_hash": ""
+  },
+  "assets/images/community-school.jpg": {
+    "mtime": 1790781878.4803433,
+    "seen": 1790790678.8583388,
+    "ast_hash": "0b06137b93109c603640b090be598cf9",
+    "semantic_hash": ""
+  },
+  "assets/images/construction-detail.jpg": {
+    "mtime": 1790781878.4813435,
+    "seen": 1790790678.858341,
+    "ast_hash": "8a372414e5722e31bdb2193fc20d19b4",
+    "semantic_hash": ""
+  },
+  "assets/images/construction-g1.jpg": {
+    "mtime": 1790790387.309911,
+    "seen": 1790790678.858343,
+    "ast_hash": "720b25d7814b39cf3b3549c62c7aa78d",
+    "semantic_hash": ""
+  },
+  "assets/images/construction-g2.jpg": {
+    "mtime": 1790790387.3509028,
+    "seen": 1790790678.858345,
+    "ast_hash": "d5455b1a2be281f8877869cfe7dca980",
+    "semantic_hash": ""
+  },
+  "assets/images/construction-g3.jpg": {
+    "mtime": 1790790387.3896053,
+    "seen": 1790790678.858347,
+    "ast_hash": "1d144b21d1806eca7cdc92e0ff4f58d6",
+    "semantic_hash": ""
+  },
+  "assets/images/construction.jpg": {
+    "mtime": 1790781878.4823442,
+    "seen": 1790790678.858349,
+    "ast_hash": "37f7cfe3133a4c3e7dfd05b2c9a8016a",
+    "semantic_hash": ""
+  },
+  "assets/images/dental-clinic-detail.jpg": {
+    "mtime": 1790781878.4843485,
+    "seen": 1790790678.858351,
+    "ast_hash": "ba1aa512332dc76b6e28cad0aaf4b1fc",
+    "semantic_hash": ""
+  },
+  "assets/images/dental-clinic-g1.jpg": {
+    "mtime": 1790790387.4236102,
+    "seen": 1790790678.8583531,
+    "ast_hash": "bc54236992a96382d7f8d36cc6185280",
+    "semantic_hash": ""
+  },
+  "assets/images/dental-clinic-g2.jpg": {
+    "mtime": 1790790387.4591894,
+    "seen": 1790790678.8583558,
+    "ast_hash": "d0adcb9ee2b677804e0e6beaa3d91750",
+    "semantic_hash": ""
+  },
+  "assets/images/dental-clinic-g3.jpg": {
+    "mtime": 1790790387.4933343,
+    "seen": 1790790678.858358,
+    "ast_hash": "3fc25910061b171c6fcf06b183f8dbca",
+    "semantic_hash": ""
+  },
+  "assets/images/dental-clinic.jpg": {
+    "mtime": 1790781878.4853432,
+    "seen": 1790790678.8583603,
+    "ast_hash": "9f414e9d690fb0bb42d214c027f0b2de",
+    "semantic_hash": ""
+  },
+  "assets/images/electrician-detail.jpg": {
+    "mtime": 1790781878.4863434,
+    "seen": 1790790678.8583622,
+    "ast_hash": "5f1ca19b28b4644818a380941784bfbf",
+    "semantic_hash": ""
+  },
+  "assets/images/electrician-g1.jpg": {
+    "mtime": 1790790387.5273745,
+    "seen": 1790790678.8583648,
+    "ast_hash": "6fe7ab1fbcc29ed8a1125a0148356cb1",
+    "semantic_hash": ""
+  },
+  "assets/images/electrician-g2.jpg": {
+    "mtime": 1790790387.5632093,
+    "seen": 1790790678.8583674,
+    "ast_hash": "16d0d4be55c8ff3756de430bebfae965",
+    "semantic_hash": ""
+  },
+  "assets/images/electrician-g3.jpg": {
+    "mtime": 1790790387.634043,
+    "seen": 1790790678.8583698,
+    "ast_hash": "663102f1ae1424a90944cdccae338a09",
+    "semantic_hash": ""
+  },
+  "assets/images/electrician.jpg": {
+    "mtime": 1790781878.4883263,
+    "seen": 1790790678.8583715,
+    "ast_hash": "c39a716ac1d2c9d44b440f54fb9494c3",
+    "semantic_hash": ""
+  },
+  "assets/images/events-detail.jpg": {
+    "mtime": 1790781878.4893267,
+    "seen": 1790790678.8583739,
+    "ast_hash": "731f8bc7f291ef80d96fda2ffcd8e34c",
+    "semantic_hash": ""
+  },
+  "assets/images/events-g1.jpg": {
+    "mtime": 1790790387.6750078,
+    "seen": 1790790678.8583758,
+    "ast_hash": "6a95383f1dc63023a57466d4b7566cd9",
+    "semantic_hash": ""
+  },
+  "assets/images/events-g2.jpg": {
+    "mtime": 1790790387.7152712,
+    "seen": 1790790678.8583777,
+    "ast_hash": "21d9ddda383a36c3b781c835622aacba",
+    "semantic_hash": ""
+  },
+  "assets/images/events-g3.jpg": {
+    "mtime": 1790790387.7563396,
+    "seen": 1790790678.8583798,
+    "ast_hash": "22230a8f716d9fd3dbd444c9f037c028",
+    "semantic_hash": ""
+  },
+  "assets/images/events.jpg": {
+    "mtime": 1790781878.490327,
+    "seen": 1790790678.8583817,
+    "ast_hash": "0d574b6ee94e0a29e9012bbd561ec92a",
+    "semantic_hash": ""
+  },
+  "assets/images/favicon.svg": {
+    "mtime": 1790781878.490327,
+    "seen": 1790790678.8583837,
+    "ast_hash": "e44d5e182628952ac438c8f0c6022618",
+    "semantic_hash": ""
+  },
+  "assets/images/furniture-detail.jpg": {
+    "mtime": 1790781878.4923258,
+    "seen": 1790790678.8583858,
+    "ast_hash": "52bca98b14390cdf89619a65b13d681a",
+    "semantic_hash": ""
+  },
+  "assets/images/furniture-g1.jpg": {
+    "mtime": 1790790387.7924416,
+    "seen": 1790790678.8583887,
+    "ast_hash": "3a50ffcfd72d4f0245e136bb115a7c2a",
+    "semantic_hash": ""
+  },
+  "assets/images/furniture-g2.jpg": {
+    "mtime": 1790790387.8306973,
+    "seen": 1790790678.858391,
+    "ast_hash": "e9c92359cd208de2ace1a11973d7718c",
+    "semantic_hash": ""
+  },
+  "assets/images/furniture-g3.jpg": {
+    "mtime": 1790790387.8671033,
+    "seen": 1790790678.8583937,
+    "ast_hash": "26f92e18d554fdb946365c66189c4174",
+    "semantic_hash": ""
+  },
+  "assets/images/furniture.jpg": {
+    "mtime": 1790781878.4933264,
+    "seen": 1790790678.8583958,
+    "ast_hash": "9aa0b0d22d355eee36a4bf60d5238eba",
+    "semantic_hash": ""
+  },
+  "assets/images/gym-detail.jpg": {
+    "mtime": 1790781878.4943264,
+    "seen": 1790790678.8583977,
+    "ast_hash": "fd6be5adf63d123c2c249c35407b09ca",
+    "semantic_hash": ""
+  },
+  "assets/images/gym-g1.jpg": {
+    "mtime": 1790790387.902409,
+    "seen": 1790790678.8583994,
+    "ast_hash": "d3831fcc834a4582f1ccd4d2d99b73ae",
+    "semantic_hash": ""
+  },
+  "assets/images/gym-g2.jpg": {
+    "mtime": 1790790387.9395819,
+    "seen": 1790790678.8584015,
+    "ast_hash": "9459c07c06d2b141b57c6053b680f38a",
+    "semantic_hash": ""
+  },
+  "assets/images/gym-g3.jpg": {
+    "mtime": 1790790387.975983,
+    "seen": 1790790678.8584037,
+    "ast_hash": "b6de95f08a5dd2ac0f3a03fa5b008d77",
+    "semantic_hash": ""
+  },
+  "assets/images/gym.jpg": {
+    "mtime": 1790781878.4963255,
+    "seen": 1790790678.8584056,
+    "ast_hash": "6977f556e9bd64c4a52866875469f329",
+    "semantic_hash": ""
+  },
+  "assets/images/industrial-services-detail.jpg": {
+    "mtime": 1790781878.49736,
+    "seen": 1790790678.8584077,
+    "ast_hash": "4fea1e0b54997c9f277ddc72090c37ba",
+    "semantic_hash": ""
+  },
+  "assets/images/industrial-services-g1.jpg": {
+    "mtime": 1790790388.0149806,
+    "seen": 1790790678.8584094,
+    "ast_hash": "5c2e7c74952f00093c5710bd40ae1371",
+    "semantic_hash": ""
+  },
+  "assets/images/industrial-services-g2.jpg": {
+    "mtime": 1790790388.049991,
+    "seen": 1790790678.8584113,
+    "ast_hash": "222c392a5fe04a5b68f6be74c4482343",
+    "semantic_hash": ""
+  },
+  "assets/images/industrial-services-g3.jpg": {
+    "mtime": 1790790388.0875745,
+    "seen": 1790790678.8584135,
+    "ast_hash": "9c2547e11d05a22e6a71a424aa0c56dc",
+    "semantic_hash": ""
+  },
+  "assets/images/industrial-services.jpg": {
+    "mtime": 1790781878.4993415,
+    "seen": 1790790678.8584156,
+    "ast_hash": "d142f9caa4c9b80c8c1a000207d4cfc9",
+    "semantic_hash": ""
+  },
+  "assets/images/mechanic-detail.jpg": {
+    "mtime": 1790781878.5003426,
+    "seen": 1790790678.858418,
+    "ast_hash": "cd3e3618bce40d49d4b1bfa82c40b225",
+    "semantic_hash": ""
+  },
+  "assets/images/mechanic-g1.jpg": {
+    "mtime": 1790790388.1268926,
+    "seen": 1790790678.85842,
+    "ast_hash": "ad8a44097603ce5fe9286378f4c3da34",
+    "semantic_hash": ""
+  },
+  "assets/images/mechanic-g2.jpg": {
+    "mtime": 1790790388.165934,
+    "seen": 1790790678.858422,
+    "ast_hash": "38fa2e14ffdcfa9cc1aa36f4cbdefe3b",
+    "semantic_hash": ""
+  },
+  "assets/images/mechanic-g3.jpg": {
+    "mtime": 1790790388.198818,
+    "seen": 1790790678.8584244,
+    "ast_hash": "4b19f0c5494eaceee23fd2e806c11c27",
+    "semantic_hash": ""
+  },
+  "assets/images/mechanic.jpg": {
+    "mtime": 1790781878.5013304,
+    "seen": 1790790678.8584266,
+    "ast_hash": "bd85b9e271816e2e85f491ba6126d16b",
+    "semantic_hash": ""
+  },
+  "assets/images/petshop-detail.jpg": {
+    "mtime": 1790781878.5033433,
+    "seen": 1790790678.8584285,
+    "ast_hash": "e3d037c3beefde5eb6a4aaaee1efa6a2",
+    "semantic_hash": ""
+  },
+  "assets/images/petshop-g1.jpg": {
+    "mtime": 1790790388.234371,
+    "seen": 1790790678.8584301,
+    "ast_hash": "4f5f6166f84b67643f699745ecd8767f",
+    "semantic_hash": ""
+  },
+  "assets/images/petshop-g2.jpg": {
+    "mtime": 1790790388.2708478,
+    "seen": 1790790678.8584323,
+    "ast_hash": "967777d032800e324e03a086223ced82",
+    "semantic_hash": ""
+  },
+  "assets/images/petshop-g3.jpg": {
+    "mtime": 1790790388.3125103,
+    "seen": 1790790678.858434,
+    "ast_hash": "cd504fbf77a9460e1667c87aa46b79b5",
+    "semantic_hash": ""
+  },
+  "assets/images/petshop.jpg": {
+    "mtime": 1790781878.5043259,
+    "seen": 1790790678.858456,
+    "ast_hash": "57d530665401c83394e2bd723c7ce9dd",
+    "semantic_hash": ""
+  },
+  "assets/images/photographer-detail.jpg": {
+    "mtime": 1790781878.505344,
+    "seen": 1790790678.858458,
+    "ast_hash": "5880d0ee0402938610f79eca0a9d5868",
+    "semantic_hash": ""
+  },
+  "assets/images/photographer-g1.jpg": {
+    "mtime": 1790790388.34879,
+    "seen": 1790790678.85846,
+    "ast_hash": "d66a26871a98dfc07f5cac65c7e0015a",
+    "semantic_hash": ""
+  },
+  "assets/images/photographer-g2.jpg": {
+    "mtime": 1790790388.3876598,
+    "seen": 1790790678.8584616,
+    "ast_hash": "a9af38be74d6ec220b51fa91213f851c",
+    "semantic_hash": ""
+  },
+  "assets/images/photographer-g3.jpg": {
+    "mtime": 1790790388.4248085,
+    "seen": 1790790678.8584635,
+    "ast_hash": "0a38c18dc54a68d728b783228d35dfe6",
+    "semantic_hash": ""
+  },
+  "assets/images/photographer.jpg": {
+    "mtime": 1790781878.5063434,
+    "seen": 1790790678.8584661,
+    "ast_hash": "c34864c874ad42c6ed2219ef7d1b3c22",
+    "semantic_hash": ""
+  },
+  "assets/images/professional-services-detail.jpg": {
+    "mtime": 1790781878.508325,
+    "seen": 1790790678.8584683,
+    "ast_hash": "4450e589207136800d79a54374b5ed80",
+    "semantic_hash": ""
+  },
+  "assets/images/professional-services-g1.jpg": {
+    "mtime": 1790790388.4646118,
+    "seen": 1790790678.8584704,
+    "ast_hash": "4b659c0ee36cb38612845f53f4cba274",
+    "semantic_hash": ""
+  },
+  "assets/images/professional-services-g2.jpg": {
+    "mtime": 1790790388.499164,
+    "seen": 1790790678.8584726,
+    "ast_hash": "3a460ddb84982f7f94f06f92147cd8e4",
+    "semantic_hash": ""
+  },
+  "assets/images/professional-services-g3.jpg": {
+    "mtime": 1790790388.5439878,
+    "seen": 1790790678.8584747,
+    "ast_hash": "04111b9fa9172769627bde4fbc7857b9",
+    "semantic_hash": ""
+  },
+  "assets/images/professional-services.jpg": {
+    "mtime": 1790781878.5093439,
+    "seen": 1790790678.858477,
+    "ast_hash": "2839bdada611abd39590383b07b39650",
+    "semantic_hash": ""
+  },
+  "assets/images/public-law-detail.jpg": {
+    "mtime": 1790781878.5103436,
+    "seen": 1790790678.858479,
+    "ast_hash": "ea331d84ae23f280fcb086e644e12cef",
+    "semantic_hash": ""
+  },
+  "assets/images/public-law-g1.jpg": {
+    "mtime": 1790790388.5791736,
+    "seen": 1790790678.8584814,
+    "ast_hash": "19abf7a56be45b7016d2668e9b0d3b4a",
+    "semantic_hash": ""
+  },
+  "assets/images/public-law-g2.jpg": {
+    "mtime": 1790790388.6181066,
+    "seen": 1790790678.8584836,
+    "ast_hash": "5c440f61e6238df48c79ee1670c401ca",
+    "semantic_hash": ""
+  },
+  "assets/images/public-law.jpg": {
+    "mtime": 1790781878.511343,
+    "seen": 1790790678.858486,
+    "ast_hash": "07e7d08035e28c751945e58ff474797e",
+    "semantic_hash": ""
+  },
+  "assets/images/real-estate-detail.jpg": {
+    "mtime": 1790781878.5123434,
+    "seen": 1790790678.8584883,
+    "ast_hash": "b20e43783eb311136e9616a6483c5dc5",
+    "semantic_hash": ""
+  },
+  "assets/images/real-estate-g1.jpg": {
+    "mtime": 1790790388.654183,
+    "seen": 1790790678.8584905,
+    "ast_hash": "870c944506eadcfb37d8b3e7bb869e5c",
+    "semantic_hash": ""
+  },
+  "assets/images/real-estate-g2.jpg": {
+    "mtime": 1790790388.6938794,
+    "seen": 1790790678.8584926,
+    "ast_hash": "f7a652317ac7ddc903a4839e44a9db7c",
+    "semantic_hash": ""
+  },
+  "assets/images/real-estate-g3.jpg": {
+    "mtime": 1790790388.7338903,
+    "seen": 1790790678.8584952,
+    "ast_hash": "25b5d3bd48d4199b88a316db69d7658a",
+    "semantic_hash": ""
+  },
+  "assets/images/real-estate.jpg": {
+    "mtime": 1790781878.5143428,
+    "seen": 1790790678.8584979,
+    "ast_hash": "d1e1e0da572da22a57d95c00d8dc5ee6",
+    "semantic_hash": ""
+  },
+  "assets/images/restaurant-detail.jpg": {
+    "mtime": 1790781878.5153434,
+    "seen": 1790790678.8584998,
+    "ast_hash": "a0e9d293a2ca48e09028d0bb1140c421",
+    "semantic_hash": ""
+  },
+  "assets/images/restaurant-g1.jpg": {
+    "mtime": 1790790388.7726576,
+    "seen": 1790790678.858502,
+    "ast_hash": "8f93270cc6cdd388b2205e9c53455335",
+    "semantic_hash": ""
+  },
+  "assets/images/restaurant-g2.jpg": {
+    "mtime": 1790790388.8247628,
+    "seen": 1790790678.8585038,
+    "ast_hash": "4cf2e166459dc29f6dde29fe47c6a651",
+    "semantic_hash": ""
+  },
+  "assets/images/restaurant-g3.jpg": {
+    "mtime": 1790790388.8607666,
+    "seen": 1790790678.8585067,
+    "ast_hash": "7af37fcad26994b4b3af931544f8d342",
+    "semantic_hash": ""
+  },
+  "assets/images/restaurant.jpg": {
+    "mtime": 1790781878.516343,
+    "seen": 1790790678.858509,
+    "ast_hash": "ad45fbf15d61231e45c961bb149c00bd",
+    "semantic_hash": ""
+  },
+  "assets/images/school-detail.jpg": {
+    "mtime": 1790781878.5173428,
+    "seen": 1790790678.8585114,
+    "ast_hash": "e14780204e2f5f3a1e44c4c5396d7dab",
+    "semantic_hash": ""
+  },
+  "assets/images/school-g1.jpg": {
+    "mtime": 1790790388.8992891,
+    "seen": 1790790678.8585134,
+    "ast_hash": "6624f1f72aa51dc686ca86cbc1533766",
+    "semantic_hash": ""
+  },
+  "assets/images/school-g2.jpg": {
+    "mtime": 1790790388.9393659,
+    "seen": 1790790678.858516,
+    "ast_hash": "f0ce443f573f5de4370bcd0991b4b708",
+    "semantic_hash": ""
+  },
+  "assets/images/school-g3.jpg": {
+    "mtime": 1790790388.97317,
+    "seen": 1790790678.8585186,
+    "ast_hash": "3ced847b62efb810df533fdb97142d1c",
+    "semantic_hash": ""
+  },
+  "assets/images/school.jpg": {
+    "mtime": 1790781878.5183258,
+    "seen": 1790790678.8585205,
+    "ast_hash": "31062da94fd951b06807c979f01de657",
+    "semantic_hash": ""
+  },
+  "assets/images/solar-energy-detail.jpg": {
+    "mtime": 1790781878.5203252,
+    "seen": 1790790678.858523,
+    "ast_hash": "cc1123417d217e60e74372e7bb9a76a8",
+    "semantic_hash": ""
+  },
+  "assets/images/solar-energy-g1.jpg": {
+    "mtime": 1790790389.0117633,
+    "seen": 1790790678.8585253,
+    "ast_hash": "53c14ca87334deea5179fce08c3444a7",
+    "semantic_hash": ""
+  },
+  "assets/images/solar-energy-g2.jpg": {
+    "mtime": 1790790389.0528088,
+    "seen": 1790790678.8585281,
+    "ast_hash": "52047d7efdd6eaa05e408ae0eda2b47b",
+    "semantic_hash": ""
+  },
+  "assets/images/solar-energy-g3.jpg": {
+    "mtime": 1790790389.0945733,
+    "seen": 1790790678.8585303,
+    "ast_hash": "f813ce8cd5ddb0a782521ac9f361cfc9",
+    "semantic_hash": ""
+  },
+  "assets/images/solar-energy.jpg": {
+    "mtime": 1790781878.5233264,
+    "seen": 1790790678.858533,
+    "ast_hash": "170ef685db56fd96ce388fde7a2a69a7",
+    "semantic_hash": ""
+  },
+  "screenshots/aesthetic-clinic.png": {
+    "mtime": 1790781878.5523422,
+    "seen": 1790790678.858535,
+    "ast_hash": "d3f4407b9cf1c110a7a7b602813b0be7",
+    "semantic_hash": ""
+  },
+  "screenshots/barbershop.png": {
+    "mtime": 1790781878.5543451,
+    "seen": 1790790678.8585374,
+    "ast_hash": "534c85954563e8804aec1ab92a86e020",
+    "semantic_hash": ""
+  },
+  "screenshots/petshop.png": {
+    "mtime": 1790781878.5573423,
+    "seen": 1790790678.8585465,
+    "ast_hash": "923172e56f21e0427601c0d0dafd30db",
+    "semantic_hash": ""
+  },
+  "screenshots/restaurant.png": {
+    "mtime": 1790781878.5613253,
+    "seen": 1790790678.8585486,
+    "ast_hash": "c3a03b475070cbca50ce9c4b4fd1ef90",
+    "semantic_hash": ""
+  },
+  "screenshots/showcase.png": {
+    "mtime": 1790781878.5643256,
+    "seen": 1790790678.8585513,
+    "ast_hash": "5473fc79d7a8f6eee6d3d0c1883e1814",
+    "semantic_hash": ""
+  },
+  "screenshots/solar-energy.png": {
+    "mtime": 1790781878.571325,
+    "seen": 1790790678.8585536,
+    "ast_hash": "6064e9a20cec4fc19a7a68b33b1204e5",
+    "semantic_hash": ""
+  }
+}

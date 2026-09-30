@@ -72,10 +72,12 @@ Edite textos, serviços, paletas e composições no `build.py` e execute `python
 
 ## Objetivo
 
-Servir como portfólio comercial para apresentar possibilidades de landing pages a empresas de diferentes segmentos. Cada site é um conceito visual demonstrativo e pode ser adaptado para um cliente real com conteúdo, imagens e dados fornecidos por ele.
+Servir como portfólio comercial para apresentar possibilidades de landing pages a empresas de diferentes segmentos. Cada site é um conceito visual demonstrativo. O cliente pode contratar o modelo como está ou solicitar alterações em conteúdo, identidade visual e funcionalidades. Escopo, entrega e direitos de uso são combinados individualmente.
 
 As demos **Clareza Direito Público**, **Vértice Soluções Industriais** e **Escola Caminho dos Valores** foram inspiradas nos segmentos apresentados em [mariobrunhara.com.br](https://mariobrunhara.com.br/), [ssiservicos.com](https://ssiservicos.com/) e [escolasairp.org.br](https://escolasairp.org.br/), respectivamente. São conceitos independentes, sem vínculo com essas instituições.
 
 ## Créditos e licença
 
-Fotografias: [Unsplash](https://unsplash.com/license). Fontes: [Google Fonts](https://fonts.google.com/). Ícone: [Lucide](https://lucide.dev/). Código disponível sob a [Licença MIT](LICENSE).
+Criação e direitos autorais do código: [MrPowerUp82](https://github.com/MrPowerUp82).
+
+Fotografias: [Unsplash](https://unsplash.com/license). Fontes: [Google Fonts](https://fonts.google.com/). Ícone: [Lucide](https://lucide.dev/). Código e design com [todos os direitos reservados](LICENSE). O uso comercial de um modelo ou de uma versão adaptada depende de acordo com o autor.

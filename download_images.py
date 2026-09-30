@@ -2,7 +2,8 @@
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from urllib.request import urlopen
-from build import SITES, SECONDARY, PHOTO
+import sys
+from build import SITES, SECONDARY, GALLERY, PHOTO
 
 DEST = Path(__file__).parent / 'assets' / 'images'
 DEST.mkdir(parents=True, exist_ok=True)
@@ -21,6 +22,9 @@ def download(item):
 if __name__ == '__main__':
     items = [(s['slug'], s['image'], '') for s in SITES]
     items += [(s['slug'], SECONDARY[s['slug']], '-detail') for s in SITES]
+    items += [(slug, pid, f'-g{i}') for slug, ids in GALLERY.items() for i, pid in enumerate(ids, 1)]
+    if '--missing' in sys.argv:
+        items = [item for item in items if not (DEST / f"{item[0]}{item[2]}.jpg").exists()]
     with ThreadPoolExecutor(max_workers=6) as pool:
         for name, size in pool.map(download, items):
             print(f'{name}: {size // 1024} KB')
