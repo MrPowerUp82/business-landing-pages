@@ -1,8 +1,8 @@
 # Business Landing Page Showcase
 
-Coleção de **22 websites demonstrativos** para portfólio comercial. Cada página apresenta uma empresa fictícia com identidade, conteúdo e percurso de conversão próprios. Os exemplos foram criados para mostrar a pequenos negócios como um site pode apresentar serviços e gerar conversas.
+Coleção de **23 websites demonstrativos** para portfólio comercial. Cada página apresenta uma empresa fictícia com identidade, conteúdo e percurso de conversão próprios. Os exemplos foram criados para mostrar a pequenos negócios como um site pode apresentar serviços e gerar conversas.
 
-> **Aviso:** empresas, avaliações, preços, endereços e resultados apresentados são fictícios. O número de WhatsApp das 22 demos é demonstrativo; os CTAs da vitrine principal usam o contato do autor. Formulários não armazenam dados nem enviam mensagens automaticamente.
+> **Aviso:** empresas, avaliações, preços, endereços e resultados apresentados são fictícios. O número de WhatsApp das 23 demos é demonstrativo; os CTAs da vitrine principal usam o contato do autor. Formulários não armazenam dados nem enviam mensagens automaticamente.
 
 ## Projetos
 
@@ -30,6 +30,7 @@ Coleção de **22 websites demonstrativos** para portfólio comercial. Cada pág
 | Doce Encanto | Confeitaria | [Ver demo](projects/bakery/index.html) |
 | Clareza Direito Público | Direito do servidor público | [Ver demo](projects/public-law/index.html) |
 | Vértice Soluções Industriais | Serviços industriais | [Ver demo](projects/industrial-services/index.html) |
+| Escola Caminho dos Valores | Escola comunitária | [Ver demo](projects/community-school/index.html) |
 
 ## Tecnologias
 
@@ -51,7 +52,7 @@ Depois acesse `http://localhost:8000`. Para publicar no GitHub Pages, configure 
 assets/css/       Estilos da vitrine e base funcional das demos
 assets/js/        Busca, filtros, navegação e formulários
 assets/images/    Fotografias otimizadas e favicon
-projects/         22 páginas independentes, cada uma com HTML/CSS/JS
+projects/         23 páginas independentes, cada uma com HTML/CSS/JS
 build.py          Conteúdo editorial e geração das páginas
 ```
 
@@ -73,7 +74,7 @@ Edite textos, serviços, paletas e composições no `build.py` e execute `python
 
 Servir como portfólio comercial para apresentar possibilidades de landing pages a empresas de diferentes segmentos. Cada site é um conceito visual demonstrativo e pode ser adaptado para um cliente real com conteúdo, imagens e dados fornecidos por ele.
 
-As demos **Clareza Direito Público** e **Vértice Soluções Industriais** foram inspiradas nos segmentos apresentados em [mariobrunhara.com.br](https://mariobrunhara.com.br/) e [ssiservicos.com](https://ssiservicos.com/), respectivamente. São conceitos independentes, sem vínculo com essas empresas.
+As demos **Clareza Direito Público**, **Vértice Soluções Industriais** e **Escola Caminho dos Valores** foram inspiradas nos segmentos apresentados em [mariobrunhara.com.br](https://mariobrunhara.com.br/), [ssiservicos.com](https://ssiservicos.com/) e [escolasairp.org.br](https://escolasairp.org.br/), respectivamente. São conceitos independentes, sem vínculo com essas instituições.
 
 ## Créditos e licença
 
