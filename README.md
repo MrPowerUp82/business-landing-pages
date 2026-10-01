@@ -1,4 +1,4 @@
-# Business Landing Page Showcase
+# Vitrine de Sites Comerciais
 
 Coleção de **23 websites demonstrativos** para portfólio comercial. Cada página apresenta uma empresa fictícia com identidade, conteúdo e percurso de conversão próprios. Os exemplos foram criados para mostrar a pequenos negócios como um site pode apresentar serviços e gerar conversas.
 
@@ -58,7 +58,9 @@ build.py          Conteúdo editorial e geração das páginas
 
 Edite textos, serviços, paletas e composições no `build.py` e execute `python build.py`. O site publicado usa somente os arquivos estáticos gerados.
 
-## Screenshots
+SEO e prévias de compartilhamento são gerados para todas as páginas, junto com `sitemap.xml` e `robots.txt`. A URL base padrão é `https://mrpowerup82.github.io/business-landing-pages/`. Para usar outro domínio, defina a variável de ambiente `SITE_URL` antes de executar `python build.py` (no PowerShell: `$env:SITE_URL = "https://seu-dominio.com"`). Gere novamente os arquivos ao trocar o endereço de publicação.
+
+## Capturas de tela
 
 ![Vitrine principal](screenshots/showcase.png)
 
@@ -72,7 +74,7 @@ Edite textos, serviços, paletas e composições no `build.py` e execute `python
 
 ## Objetivo
 
-Servir como portfólio comercial para apresentar possibilidades de landing pages a empresas de diferentes segmentos. Cada site é um conceito visual demonstrativo. O cliente pode contratar o modelo como está ou solicitar alterações em conteúdo, identidade visual e funcionalidades. Escopo, entrega e direitos de uso são combinados individualmente.
+Servir como portfólio comercial para apresentar possibilidades de sites comerciais a empresas de diferentes segmentos. Cada site é um conceito visual demonstrativo. O cliente pode contratar o modelo como está ou solicitar alterações em conteúdo, identidade visual e funcionalidades. Escopo, entrega e direitos de uso são combinados individualmente.
 
 As demos **Clareza Direito Público**, **Vértice Soluções Industriais** e **Escola Caminho dos Valores** foram inspiradas nos segmentos apresentados em [mariobrunhara.com.br](https://mariobrunhara.com.br/), [ssiservicos.com](https://ssiservicos.com/) e [escolasairp.org.br](https://escolasairp.org.br/), respectivamente. São conceitos independentes, sem vínculo com essas instituições.
 

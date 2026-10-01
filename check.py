@@ -2,7 +2,8 @@
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
-from build import SITES
+from xml.etree import ElementTree
+from build import SITES, SITE_URL
 
 ROOT = Path(__file__).parent
 PAGES = [ROOT / 'index.html', *sorted((ROOT / 'projects').glob('*/index.html'))]
@@ -15,8 +16,19 @@ class Links(HTMLParser):
         self.titles = 0
         self.descriptions = 0
         self.images = 0
+        self.lang = None
+        self.metadata = {}
+        self.canonicals = []
     def handle_starttag(self, tag, attrs):
         data = dict(attrs)
+        if tag == 'html':
+            self.lang = data.get('lang')
+        if tag == 'meta':
+            key = data.get('property') or data.get('name')
+            if key:
+                self.metadata.setdefault(key, []).append(data.get('content', ''))
+        if tag == 'link' and data.get('rel') == 'canonical':
+            self.canonicals.append(data.get('href', ''))
         if data.get('id'):
             self.anchors.add(data['id'])
         if tag == 'title':
@@ -38,6 +50,22 @@ for page in PAGES:
     parser.feed(page.read_text(encoding='utf-8'))
     if parser.titles != 1 or parser.descriptions != 1:
         errors.append(f'{page}: missing title or description')
+    path = '' if page == ROOT / 'index.html' else page.parent.relative_to(ROOT).as_posix() + '/'
+    canonical = SITE_URL + '/' + path
+    if parser.lang != 'pt-BR' or parser.canonicals != [canonical]:
+        errors.append(f'{page}: incorrect language or canonical URL')
+    for key in ('description', 'robots', 'og:type', 'og:locale', 'og:site_name',
+                'og:title', 'og:description', 'og:url', 'og:image', 'og:image:alt',
+                'twitter:card', 'twitter:title', 'twitter:description', 'twitter:image', 'twitter:image:alt'):
+        values = parser.metadata.get(key, [])
+        if len(values) != 1 or not values[0].strip():
+            errors.append(f'{page}: missing, duplicate or empty {key}')
+    if parser.metadata.get('og:url') != [canonical] or parser.metadata.get('og:locale') != ['pt_BR']:
+        errors.append(f'{page}: incorrect Open Graph URL or locale')
+    for key in ('og:image', 'twitter:image'):
+        for ref in parser.metadata.get(key, []):
+            if not ref.startswith(SITE_URL + '/') or not (ROOT / unquote(ref.removeprefix(SITE_URL + '/'))).is_file():
+                errors.append(f'{page}: invalid sharing image {ref}')
     for ref in parser.refs:
         url = urlsplit(ref)
         if url.scheme in ('https','http','mailto','tel') or ref.startswith('//'):
@@ -60,6 +88,19 @@ for page in PAGES:
         for filename in ('style.css','script.js'):
             if not (page.parent / filename).is_file():
                 errors.append(f'{page}: missing {filename}')
+
+sitemap = ROOT / 'sitemap.xml'
+if sitemap.is_file():
+    tree = ElementTree.parse(sitemap)
+    urls = [node.text for node in tree.findall('.//{http://www.sitemaps.org/schemas/sitemap/0.9}loc')]
+    expected = [SITE_URL + '/', *(SITE_URL + '/projects/' + site['slug'] + '/' for site in SITES)]
+    if sorted(urls) != sorted(expected):
+        errors.append('Sitemap must include every canonical URL exactly once')
+else:
+    errors.append('Missing sitemap.xml')
+robots = ROOT / 'robots.txt'
+if not robots.is_file() or 'Sitemap: ' + SITE_URL + '/sitemap.xml' not in robots.read_text(encoding='utf-8'):
+    errors.append('Missing robots.txt or incorrect sitemap reference')
 
 if errors:
     print('\n'.join(errors))

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mrpowerup82.github.io/business-landing-pages/sitemap.xml
